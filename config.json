@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercave",
+        "uuid": 10297386,
+        "checksum": "rjvfwc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
